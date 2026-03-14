@@ -1,3 +1,3 @@
 # New project
-this project was created from local sysytem.
+this project was created from local system.
 created by ayush
